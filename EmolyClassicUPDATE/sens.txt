@@ -1,0 +1,12 @@
+7-1 classic
+alc optics all 10x
+
+6-1 classic
+alc optics
+1x8.0-8.5x
+2x 9.5x
+the rest 10x
+
+rshift to activate rotational aa 
+
+thanks for downloading <3

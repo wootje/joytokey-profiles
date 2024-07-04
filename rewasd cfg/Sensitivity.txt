@@ -1,0 +1,22 @@
+ALC 
+Hipfire 500yaw 400pitch max extra yaw and pitch
+Ads 450-470yaw 350pitch no extra yaw
+deadzone 0
+outerthreshold 3
+response curve 1-2 (adjust until anti recoil doesnt kick down too much)
+
+Regular sens
+6-6 linear
+no deadzone
+
+ALC per optics
+1x 1.0
+2x 1.2
+3x 1.3
+4x 1.4
+sniper optics (i dont care)
+
+Mouse sens (both regular aim and for jitter aiming)
+
+0.8 1200dpi
+optic 0.4-0.6 depending how much you want it to shake

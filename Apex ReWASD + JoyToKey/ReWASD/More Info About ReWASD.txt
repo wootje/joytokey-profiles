@@ -1,0 +1,20 @@
+In Game Toggles
+
+Looting Player Boxes: 
+    - I use Mouse Button 4 (Foward Mouse Button) to toggle for looting... Using native keyboard and mouse.
+    ALMOST always I would go to player box who has just been killed fully and
+    I would hold R (on keyboard) to open up the box then I would press Mouse Button 4 (Foward Mouse Button) 
+    to nativly use mouse to loot. EZ PZ don't ask how to change that bind cause that is a shit show...
+
+Inventory Management or Anything in the Inventory:
+    - This is pretty cool imo... just press tab (on keyboard)
+    and you can use native mouse to manage inventory.
+    Then press tab again and it SHOULD automatically put you back to controller input.
+    - Sometimes inventory will bug while playing in game
+    and you wont be able to use native mouse input just press Mouse Button 4 to toggle it.
+
+Heals/Meds Selection:
+    - I hold down 4 (on keyboard) and use mouse to select either shield battery, syringe, etc...
+
+Grenades/Blow Stuff Up Selection:
+    - I hold down Middle Mouse Button to select either grenade, arcstar, etc...

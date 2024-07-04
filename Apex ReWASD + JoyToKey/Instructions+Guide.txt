@@ -1,0 +1,20 @@
+1. Double click on the ReWASD folder. Double click on the APEX = Bad Game.rewasd file.
+	- This will automatically import it to ReWASD and apply it to your mouse and keyboard.
+
+2. To install the Jitter & Tapstrafe config, please follow the instructions in the JoyToKey folder.
+
+3. Adjust your mouse settings to 800(My Personal) DPI using your mouse software or buttons. 
+OR use your own... Beware haven't tested with different DPI.
+
+4. Launch the game and go to the Controller tab. Change the following options:
+	- Controller layout: Default
+	- ADS Sensitivity: 7
+	- Hipfire Sensitivity: 7
+	- Deadzone: None
+	- Response Curve: Linear (Please This is Important)
+
+5. In game go to the Mouse and Keyboard tab. Change the following options:
+	- Mouse sensitivity: 0.2 
+	- You can change this ^ for higher jitter. Meaning higher mouse sensitivity = higher/stronger jitter.
+
+6. Open the In Game Settings Images folder and copy the ADS sensitivity multipliers from the photos provided.

@@ -1,0 +1,12 @@
+The configuration provided in this directory was set on an azerty 
+keyboard for an Xbox 360 Controller. It is set to act like a GTA SA
+PS2 configuration. The only missing key on the controller is 
+"sub mission". It is [numpad *] on the keyboard.
+
+__________
+
+
+The JoyToKey files goes into the main JoyToKey directory. 
+
+The gta_sa.set files goes into ...Documents/GTA San Andreas User Files/.
+

@@ -1,0 +1,15 @@
+JoyToKey Jitter & Tapstrafe
+
+1. After downloading the JoyToKeySetup on the website -> https://joytokey.net/en/download, please complete the setup and download. 
+    - (If you have troubles downloading please please just read the website... the link is a direct link to the 'download' page)
+    - SKIP this step if you have JoyToKey downloaded and setup already...
+
+2. Click on File in the upper left corner → Open config data folder in explorer, copy/paste Apex = Bad Game.cfg into the folder.
+    - Close JoyToKey once, then open JoyToKey again and select "Apex = Bad Game".
+    - Also not that you will need to go Settings → Preferences and Enable x16 proccessing speed for the jitter to work well.
+    - (Open Preferences Image for JoyToKey if you need help visually) 
+
+
+Try it in APEX
+Tapstrafe cfg has been installed if Tapstrafe can be done by pressing WASD while jumping, etc.
+If you have symptoms of not being able to use any of the above two, reboot or review the settings again.
