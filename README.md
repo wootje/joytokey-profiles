@@ -5,3 +5,6 @@ I want to buid a database for JoyTokey. So feel free to add more configs 😁
 https://urlshrt.eu/buycupofcoffee
 <br>
 <br>
+<img src="https://urlshrt.eu/donateqr"></img>
+<br>
+<br>
